@@ -1,0 +1,166 @@
+
+body{
+    /* background-image: url(/images/images\ \(6\).jpeg);
+    background-repeat: no-repeat;
+    background-size: cover; */
+    font-family: 'Merienda', cursive;
+    
+}
+#landing{
+    /* background-image: url(/images/pink-linear-grey-gradient-1920x1080-c2-ffc0cb-a9a9a9-a-270-f-14.svg);
+    background-repeat: no-repeat;
+    background-size: cover; */
+    background-color:pink;
+}
+#logo{
+    height: 20vh;
+    /* margin-right: 20%; */
+    rotate: 180;
+  
+}
+nav{
+    display:flex;
+    justify-content: space-between;
+    margin-right: 30%;
+
+}
+nav a{
+    text-decoration: none;
+    color: black;
+    margin-left: 10%;
+}
+#img1{
+    float: right;
+    margin-right: 10%;
+    height:50vh;
+    margin-left: 5%;
+}
+#home{
+    margin-left: 5%;
+    height:70vh;
+    margin-top: 10%;
+    text-align: center;
+    
+}
+#navbar{
+    display: flex;
+    margin-left: 30%;
+}
+#profile{
+    /* background-image: url(/images/images\ \(6\).jpeg);
+    background-repeat: no-repeat;
+    background-size: cover; */
+    text-align: center;
+    padding-bottom: 10%;
+    /* padding-right: 20%; */
+    height: 60vh;
+    margin-bottom: 10%;
+    padding-bottom: 10% solid pink;
+    margin-top: 7%;
+    border-top: 10px solid pink; 
+}
+    
+}
+#img2{
+    float: left;
+    /* margin-left: 10%; */
+    /* height :50vh; */
+    border-radius: 10%;
+    padding-bottom: 10%;;
+}
+#img3{
+    float:left;
+    height: 60vh;
+    margin-right: 10%;
+    margin-left: 20%;
+}
+#profile h2{
+    /* background-image: url(/images/images__6_-removebg-preview.png);
+    background-repeat: no-repeat;
+    background-position: fixed;
+    background-size: cover;     */
+    padding-bottom: 6%;
+    color: palevioletred;
+}
+#profile p{
+    padding-right: 10%;
+}
+#resume{
+    /* background-image: url(/images/images\ \(8\).jpeg);
+    background-repeat: no-repeat;
+    background-position: fixed; */
+    background-size: cover; 
+    height: 70vh;
+    padding-left: 15%; 
+    padding-right: 10%;
+    padding-bottom: 10%;
+    box-shadow: 5px 5px 5px 5px solid black;
+
+}
+#skills{
+    text-align: center;
+    padding-left: 0;
+    border-top: 10px solid pink; 
+}
+#img4{
+    float: right;
+    margin-right: 10%;
+    margin-left: 6%;
+}
+ h1 #resume {
+    margin-top: 10%;
+    padding-left: 0%;
+}
+h1{
+    text-align: center;
+}
+#git{
+    height: 6vh;
+}
+#link{
+    height: 6vh;
+}
+#mail{
+    height: 6vh;
+}
+#contacts{
+    text-align: center;
+    height: 40vh;
+    background-image: url(/images/);
+    background-size: cover; 
+    /* border-bottom: 10px dotted pink;  */
+    padding-right: 10%;
+    padding-left: 10%;
+    box-shadow:3px 3px 3px 3px palevioletred;
+    border-radius: 10px;
+    background-image: url(/images/images.jpeg);
+}
+#imgp{
+    height: 20vh;
+    margin-left: 5%;
+    box-shadow:3px 3px 3px 3px pink;
+    width: 20%;
+    
+}
+#projects{
+    /* margin-left: 20%;   */
+    text-align: center;
+    padding-bottom:6%;
+    margin-right: 10%;
+    margin-left: 10%;
+    margin-bottom: 10%;
+    border-bottom: 10px solid pink; 
+   
+   
+} 
+ #projects h1{
+    text-align: center;
+    padding-bottom: 3%;
+    padding-top: 4%;
+    border-top: 10px solid pink; 
+    /* margin-left: 40%; */
+
+}
+h2{
+    color: palevioletred;
+}
