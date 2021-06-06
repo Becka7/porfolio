@@ -1,16 +1,23 @@
 
 body{
-    /* background-image: url(/images/images\ \(6\).jpeg);
+    /* background-image: url(/images/images.jpeg);
     background-repeat: no-repeat;
-    background-size: cover; */
+    background-size: cover;  */
     font-family: 'Merienda', cursive;
+    
     
 }
 #landing{
     /* background-image: url(/images/pink-linear-grey-gradient-1920x1080-c2-ffc0cb-a9a9a9-a-270-f-14.svg);
     background-repeat: no-repeat;
     background-size: cover; */
-    background-color:pink;
+    /* background-color:pink; */
+    background-image: url(/images/images.jpeg);
+    background-repeat: no-repeat;
+    background-size:cover; 
+    border-bottom: 10px solid pink; 
+    
+
 }
 #logo{
     height: 20vh;
@@ -45,6 +52,7 @@ nav a{
 #navbar{
     display: flex;
     margin-left: 30%;
+    position:sticky;
 }
 #profile{
     /* background-image: url(/images/images\ \(6\).jpeg);
@@ -57,7 +65,7 @@ nav a{
     margin-bottom: 10%;
     padding-bottom: 10% solid pink;
     margin-top: 7%;
-    border-top: 10px solid pink; 
+   
 }
     
 }
@@ -140,6 +148,9 @@ h1{
     margin-left: 5%;
     box-shadow:3px 3px 3px 3px pink;
     width: 20%;
+    float: left;
+    margin-right: 20%;
+    /* margin-bottom: 6%; */
     
 }
 #projects{
@@ -150,6 +161,7 @@ h1{
     margin-left: 10%;
     margin-bottom: 10%;
     border-bottom: 10px solid pink; 
+    box-shadow: 5px 5px 5px 5px solid black;
    
    
 } 
@@ -159,8 +171,39 @@ h1{
     padding-top: 4%;
     border-top: 10px solid pink; 
     /* margin-left: 40%; */
+    
 
 }
 h2{
     color: palevioletred;
 }
+#prj2 img{
+    /* display: flex; */
+    /* float: right; */
+}
+#prj1 {
+    margin-bottom: 10%;
+   
+
+}
+#prj2{
+    margin-bottom: 10%;
+    /* margin-right: 10%; */
+    box-shadow: 5px 5px 5px 5px solid black;
+}
+#prj3{
+    margin-bottom: 10%;
+}
+#projects a{
+    text-decoration: none;
+    color: black;
+}
+button{
+    background-color: pink;
+    border-radius: 10px;
+    font-family: 'Merienda', cursive;
+}
+h1{
+    /* text-shadow: 3px 3px 3px 3px solid pink; */
+}
+
