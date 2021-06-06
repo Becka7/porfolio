@@ -15,9 +15,7 @@
 }
   
 body{
-    /* background-image: url(/images/images.jpeg);
-    background-repeat: no-repeat;
-    background-size: cover;  */
+    
     font-family: 'Merienda', cursive;
     
     
@@ -33,9 +31,7 @@ body{
 }
 #logo{
     height: 20vh;
-    /* margin-right: 20%; */
-    /* rotate: 180; */
-  
+
 }
 nav{
     display:flex;
@@ -67,9 +63,7 @@ nav a{
     /* position:sticky; */
 }
 #profile{
-    /* background-image: url(/images/images\ \(6\).jpeg);
-    background-repeat: no-repeat;
-    background-size: cover; */
+   
     text-align: center;
     padding-bottom: 5%;
     /* padding-right: 20%; */
@@ -152,7 +146,7 @@ h1{
     padding-left: 10%;
     box-shadow:3px 3px 3px 3px palevioletred;
     border-radius: 10px;
-    background-image: url(/images/images.jpeg);
+    background-image: url(./images/images.jpeg);
 }
 #imgp{
     height: 20vh;
@@ -209,8 +203,6 @@ h2{
     box-shadow: 5px 5px 5px 5px grey;
     border-radius: 10px;
     margin-bottom: 4%;
-    /* margin-right: 10%; */
-    /* box-shadow: 5px 5px 5px 5px solid black; */
 }
 #prj3{
     padding-bottom: 6%;
@@ -228,7 +220,6 @@ button{
     border-radius: 10px;
     font-family: 'Merienda', cursive;
 }
-h1{
-    /* text-shadow: 3px 3px 3px 3px solid pink; */
-}
+
+
 
